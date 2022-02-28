@@ -153,3 +153,5 @@ inb,outbという関数は完全に写経しましたが、写経した元のサ
 ## LICENSE
 
 The source code is licensed MIT.
+
+NewLibのライセンスについては __Library/LICENSE.newlib__ をご参照ください。
