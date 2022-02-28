@@ -1,3 +1,6 @@
+#ifndef DEFINE_USE_
+#define DEFINE_USE_
+
 /*
 このヘッダファイルはドライバの条件コンパイルの設定を行います。
 */
@@ -14,3 +17,5 @@
 #define SERIALPORT_SOURCE_USE_GRAPHIC_FN definefalse //シリアルポートの関数をグラフィックの関数で使用するか
 #endif                                              /*USE_SERIAL_FUNC*/
 /*end シリアルポートドライバの設定。*/
+
+#endif /*DEFINE_USE_*/
