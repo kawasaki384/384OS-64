@@ -1,0 +1,2 @@
+cbindgen --config cbindgen.toml --crate capsella_lib --output include/test_header.h --lang c
+#cbindgen_test_command
